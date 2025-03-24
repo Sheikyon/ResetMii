@@ -4,6 +4,8 @@ This tool, developed using C# (C Sharp), WPF and NET 8.0, allows you to generate
 
 ## Algorithmn
 
+To ensure this tool works, you must have the date and time on your console and computer up to date, as the generation of a working unlock key depends on your computer's date. For validation, your Wii will use an inverse transformation, which, depending on the date set on the console, will return ```True``` if the code entered matches the expected value, or ```False``` if the code entered does not match the expected value.
+
 1. Validation
    - An 8-digit value, e.g., the confirmation code, is taken and a check is made to see if the user has selected a valid time zone, as this will be required for further calculations.
 2. Time Delta Calculation
