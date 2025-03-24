@@ -21,7 +21,7 @@
         <Border VerticalAlignment="Top" Height="31" Background="#f5f5f5" BorderBrush="#a8a8a8" BorderThickness="1" MouseLeftButtonDown="TitleBar_MouseLeftButtonDown">
             <Grid Margin="0,0,0,-13">
                 <TextBlock VerticalAlignment="Top" HorizontalAlignment="Left" 
-                       FontSize="14" Foreground="#333333" Text="ResetMii (v1.0)" RenderTransformOrigin="1.296,0.33" Width="111" Margin="10,4,0,0" Height="22"/>
+                       FontSize="14" Foreground="#333333" Text="ResetMii (v1.0) by Sheikyon" RenderTransformOrigin="1.296,0.33" Width="172" Margin="10,4,0,0" Height="22"/>
 
                 <Button VerticalAlignment="Top" HorizontalAlignment="Left" Content="X" Background="Transparent" Foreground="#333333" Width="56" Height="29" BorderBrush="Transparent" BorderThickness="0" Click="CloseButton_Click" RenderTransformOrigin="0.263,0.136" Margin="742,0,0,0"/>
             </Grid>
