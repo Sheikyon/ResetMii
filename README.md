@@ -2,7 +2,7 @@
 
 This tool, developed using C# (C Sharp), WPF and NET 8.0, allows you to generate recovery keys for parental controls on the Nintendo Wii and Nintendo 3DS. 
 
-## Algorithmn
+## Algorithm
 
 To ensure this tool works, you must have the date and time on your console and computer up to date, as the generation of a working unlock key depends on your computer's date. For validation, your Wii will use an inverse transformation, which, depending on the date set on the console, will return ```True``` if the code entered matches the expected value, or ```False``` if the code entered does not match the expected value.
 
