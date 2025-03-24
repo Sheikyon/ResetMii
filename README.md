@@ -15,3 +15,11 @@ This tool, programmed in a single day using C# (C Sharp), WPF and NET 8.0, allow
      - Finally, a message box is displayed with the unlock code, formatted as a 5-digit integer.
 
 For debugging purposes, message boxes will also be displayed with the values ​​involved in calculating the unlock key.
+
+## Use
+
+To obtain the confirmation code, go to Wii Options > Wii Settings > Second Page > Parental Controls. When asked, "Change Parental Controls?", select "Yes," then "I forgot" > "I forgot" (again).
+
+![Screenshot of Wii Parental Controls with confirmation code](/img/wii_parental_controls.jpg "Wii Parental Controls")
+
+If you're in the right place, you'll see the confirmation code, which is an 8-digit integer. This will be the code you will use in the program.
