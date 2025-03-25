@@ -22,6 +22,8 @@ For debugging purposes, message boxes will also be displayed with the values ​
 
 To obtain the confirmation code, go to Wii Options > Wii Settings > Second Page > Parental Controls. When asked, "Change Parental Controls?", select "Yes," then "I forgot" > "I forgot" (again).
 
-![Screenshot of Wii Parental Controls with confirmation code](/img/wii_parental_controls.jpg "Wii Parental Controls")
+1. ![](/img/1.jpg)
+2. ![](/img/2.jpg)
+3. ![](/img/3.jpg)
 
 You will see a confirmation code, which you will use in the program to generate a unlock code.
