@@ -1,6 +1,6 @@
 # ResetMii
 
-This tool, developed using C# (C Sharp), WPF and NET 8.0, allows you to generate recovery keys for parental controls on the Nintendo Wii and Nintendo 3DS. 
+This tool, developed using C# (C Sharp), WPF and NET 8.0, allows you to generate recovery keys for parental controls on the Nintendo Wii and Nintendo 3DS. This tool is free, unlike the [one officially offered by Nintendo](https://parentalcontrols.nintendo.com/?sys=wii), which aims to charge you 50 cents, LOL.
 
 ## Algorithm
 
